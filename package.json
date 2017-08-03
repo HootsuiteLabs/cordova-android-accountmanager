@@ -1,0 +1,17 @@
+{
+  "name": "cordova-android-accountmanager",
+  "version": "1.0.0",
+  "description": "cordova-android-accountmanager",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HootsuiteLabs/cordova-android-accountmanager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HootsuiteLabs/cordova-android-accountmanager/issues"
+  },
+  "homepage": "https://github.com/HootsuiteLabs/cordova-android-accountmanager#readme"
+}
